@@ -21,8 +21,8 @@ Analyzed four years of retail sales data, performed exploratory data analysis, a
 - Discovered upward sales trend and strong seasonality.
 - Provided actionable business recommendations.
 
-[View Full Report (PDF)](https://github.com/mahishirajaguru/mahishirajaguru.github.io/blob/main/Sales_Analysis_Forecasting_Report.pdf)
-[Download Full Report (PDF)](https://github.com/mahishirajaguru/mahishirajaguru.github.io/raw/main/Sales_Analysis_Forecasting_Report.pdf)
+[View Full Report (PDF)](https://github.com/mahishir/mahishirajaguru.github.io/blob/main/Sales_Analysis_Forecasting_Report.pdf)
+[Download Full Report (PDF)](https://github.com/mahishir/mahishirajaguru.github.io/raw/main/Sales_Analysis_Forecasting_Report.pdf)
  
 
 
